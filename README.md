@@ -1,5 +1,7 @@
 ## JOGO GOURMET
 
+O jogo aprende novos pratos de acordo com as informações adicionadas durante o jogo.<br>
+
 Criação do jogo usado o estrutura de dados em arvores.
 
 Conceito de estrutra de dados -> é a forma como pensamos em guardar as informações e ter acesso a elas. 
