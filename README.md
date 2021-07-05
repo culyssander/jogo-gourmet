@@ -16,7 +16,7 @@ Por exemplo quando adiciona, verifica se o primeiro node(pai) é null e criar es
 `Jogo` - A classe que permite executar o jogo.
 
 No metodo `inicializarOJogoComQuestao` o jogo começa com os pratos padrao como "Massa", "Lasanha", "Bolo" como passa foi preenchido primeiro é a raiz ou pai. Sempre o jogo começar será o primeiro. Isso vali funcionar da seguinte forma.
-
+<pre>
 		Massa
 		  |
 Escolheu SIM	  | Escolheu NAO
@@ -27,3 +27,4 @@ SIM	| NAO     SIM  |  NAO
 ACERTO | PERGUNTA O PRATO
 
 INICIA O JOGO NOVAMENTE
+</pre>
